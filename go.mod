@@ -1,4 +1,4 @@
-module git.iflytek.com/sqjian/uuid
+module git.iflytek.com/AIaaS/uuid
 
 go 1.16
 
