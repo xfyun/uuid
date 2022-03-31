@@ -1,4 +1,4 @@
-module git.iflytek.com/AIaaS/uuid
+module github.com/xfyun/uuid
 
 go 1.16
 
